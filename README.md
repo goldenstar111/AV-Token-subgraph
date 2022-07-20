@@ -4,4 +4,4 @@ This subgraph indexes `app.good-morning.near`, which you can interact with at ht
 
 An example to help you get started with NEAR indexing with The Graph. For more information see the docs on https://thegraph.com/docs/supported-networks/near.
 
-[Deployed Nearnaut](https://thegraph.com/hosted-service/subgraph/perfect-super/aastroverse)
+[Deployed AV Token Subgraph](https://thegraph.com/hosted-service/subgraph/perfect-super/aastroverse)
