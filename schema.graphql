@@ -1,0 +1,5 @@
+type User @entity {
+  id: ID!
+  total_owned: BigInt!
+}
+

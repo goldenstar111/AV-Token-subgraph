@@ -1,0 +1,17 @@
+{
+  "name": "example",
+  "version": "0.1.0",
+  "repository": "https://github.com/graphprotocol/example-subgraph",
+  "license": "MIT",
+  "scripts": {
+    "codegen": "graph codegen",
+    "auth": "graph auth --product hosted-service d37a7e4455ae4499b915214aa06758cc",
+    "build": "graph build",
+    "deploy": "graph deploy --node https://api.thegraph.com/deploy/ perfect-super/aastroverse --access-token d37a7e4455ae4499b915214aa06758cc",
+    "deploy-local": "graph deploy example --ipfs http://localhost:5001 --node http://127.0.0.1:8020"
+  },
+  "dependencies": {
+    "@graphprotocol/graph-cli": "^0.25.1",
+    "@graphprotocol/graph-ts": "^0.24.0"
+  }
+}
