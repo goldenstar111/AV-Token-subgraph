@@ -1,7 +1,7 @@
 {
   "name": "example",
   "version": "0.1.0",
-  "repository": "https://github.com/graphprotocol/example-subgraph",
+  "repository": "https://github.com/goldenstar111/AV-Token-subgraph",
   "license": "MIT",
   "scripts": {
     "codegen": "graph codegen",
